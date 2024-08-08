@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.54eae3c1.css",
+    "main.js": "/static/js/main.bb114057.js",
+    "static/media/baseball-glove-4269892_1280.png": "/static/media/baseball-glove-4269892_1280.93b28b3fbf3866f2ee0e.png",
+    "static/media/baseball-3778774_1280.png": "/static/media/baseball-3778774_1280.36652f8f718e4e0c8437.png",
+    "index.html": "/index.html",
+    "main.54eae3c1.css.map": "/static/css/main.54eae3c1.css.map",
+    "main.bb114057.js.map": "/static/js/main.bb114057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54eae3c1.css",
+    "static/js/main.bb114057.js"
+  ]
+}
